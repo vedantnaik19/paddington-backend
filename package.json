@@ -1,0 +1,9 @@
+{
+  "name": "paddington-backend",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
